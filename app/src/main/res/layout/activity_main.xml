@@ -43,7 +43,7 @@
         tools:text="00:00" />
 
     <Button
-        android:id="@+id/startTimer"
+        android:id="@+id/btnTimer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/start_timer"
